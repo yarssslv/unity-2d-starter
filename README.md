@@ -1,8 +1,6 @@
-# unity-2d-starter
-My first Unity 2D project (learning C#)
 # Unity 2D Starter
 
-First-year Gaming Computer Programming student.
+My first Unity 2D project (learning C#). First-year Gaming Computer Programming student.
 This repository documents my learning process with Unity and C#.
 
 ## Goal
